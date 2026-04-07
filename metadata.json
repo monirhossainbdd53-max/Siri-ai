@@ -1,0 +1,8 @@
+{
+  "name": "Siri AI Assistant",
+  "description": "A real-time, voice-to-voice AI assistant with a sassy personality.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
